@@ -180,7 +180,7 @@ function App() {
                 <div class="sd pb-1"><img class="img-fluid d-none d-md-block " src={QA2} alt="QA"></img></div>
                 <h2 class="mt-3">QA</h2>
                 <dl class="dl-horizontal">
-                  <dt>Giá: 10000Đ</dt>
+                  <dt>Giá: 120000Đ</dt>
                   <dt>Tình trạng: Còn hàng</dt>
                   <dt>Hãng sản xuất: Mỹ</dt>
                 </dl>{" "}
@@ -216,7 +216,7 @@ function App() {
                 <div class="sd pb-1"><img class="img-fluid d-none d-md-block " src={CL2} alt="QA"></img></div>
                 <h2 class="mt-3">CL</h2>
                 <dl class="dl-horizontal">
-                  <dt>Giá: 10000Đ</dt>
+                  <dt>Giá: 100000Đ</dt>
                   <dt>Tình trạng: Còn hàng</dt>
                   <dt>Hãng sản xuất: Nhật</dt>
                 </dl>{" "}
@@ -234,7 +234,7 @@ function App() {
                 <div class="sd pb-1"><img class="img-fluid d-none d-md-block " src={AKTD2} alt="QA"></img></div>
                 <h2 class="mt-3">CL</h2>
                 <dl class="dl-horizontal">
-                  <dt>Giá: 5000Đ</dt>
+                  <dt>Giá: 50000Đ</dt>
                   <dt>Tình trạng: Còn hàng</dt>
                   <dt>Hãng sản xuất: Việt Nam</dt>
                 </dl>{" "}
@@ -277,7 +277,7 @@ function App() {
                   <div class="facebook-icon">
                     <FaFacebook />
                     <a
-                      href="https://www.facebook.com/profile.php?id=100018269581705"
+                      href="#"
                       class="btn btn-primary"
                       title="Chi tiết cụ thể"
                     >
@@ -297,7 +297,7 @@ function App() {
                   <div class="google-icon">
                     <FaVoicemail />
                     <a
-                      href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"
+                      href="https://https://mail.google.com/mail/u/0/?pli=1#inbox"
                       class="btn btn-primary"
                       title="Chi tiết cụ thể"
                     >
@@ -307,7 +307,7 @@ function App() {
                   <div class="youtube-icon">
                     <FaYoutube />
                     <a
-                      href="https://www.youtube.com/channel/UCPsCRfPVDUIV1s9EJaN4bxQ"
+                      href="https://www.youtube.com/?app=desktop&hl=vi"
                       class="btn btn-primary"
                       title="Chi tiết cụ thể"
                     >
@@ -332,7 +332,7 @@ function App() {
                     </a></div>
                   <div><Fa2/>
                     <a
-                      href="https://vi.wikipedia.org/wiki/QA-Cola"
+                      href="https://vi.wikipedia.org/wiki/QA"
                       class="btn btn-primary"
                       title="Chi tiết cụ thể"
                     >
@@ -340,7 +340,7 @@ function App() {
                     </a></div>
                   <div> <Fa3/>
                     <a
-                      href="https://vi.wikipedia.org/wiki/7_Up"
+                      href="https://vi.wikipedia.org/wiki/CL"
                       class="btn btn-primary"
                       title="Chi tiết cụ thể"
                     >
@@ -348,11 +348,11 @@ function App() {
                     </a></div>
                   <div><Fa4/>
                     <a
-                      href="https://en.wikipedia.org/wiki/AKTDfina"
+                      href="https://en.wikipedia.org/wiki/AKTD"
                       class="btn btn-primary"
                       title="Chi tiết cụ thể"
                     >
-                      AKTDfina »
+                      AKTD »
                     </a></div>
                     </div>
                 </div>
